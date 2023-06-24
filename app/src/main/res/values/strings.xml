@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dr Exam</string>
+    <string name="Find">Find</string>
+    <string name="y_doc">your doctor </string>
+    <string name="search_txt"><font fgcolor='#CACCCF'>Search doctor, medicines etc</font></string>
+    <string name="top">Top Doctors</string>
+    <string name="view">Wiew All </string>
+    <string name="name">dr. Gilang Segara Bening</string>
+    <string name="sa">Persahabatan Hospital</string>
+    <string name="heart">Heart</string>
+    <string name="skop">(1221)</string>
+</resources>

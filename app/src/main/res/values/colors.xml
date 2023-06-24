@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black_p">#25282B</color>
+    <color name="grey_1">#A0A4A8</color>
+    <color name="grey_2">#CACCCF</color>
+    <color name="goy">#4485FD</color>
+    <color name="yasil">#00CC6A</color>
+    <color name="grey_3">#404345</color>
+
+</resources>
